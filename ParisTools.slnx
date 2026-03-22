@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ParisLib/ParisLib.csproj" />
+  <Project Path="ParisTools/ParisTools.csproj" />
+</Solution>
